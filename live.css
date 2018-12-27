@@ -1,0 +1,29 @@
+.retro{
+width: 100%;
+ background-color: rgba(0,0,0,0.5);
+    height: 600px;
+}
+
+
+.pile{
+width: 100px;
+width: 100px;
+    padding: 10px;
+    margin-left: 500px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+div:hover {
+    width: 300px;
+}
+
+.bic{
+font-family: sans-serif;
+    font-size: 1em;
+    padding-top: 20px;
+    text-decoration: none;
+    color: black;
+}
+

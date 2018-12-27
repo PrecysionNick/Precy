@@ -1,0 +1,22 @@
+.good{
+    width: 100%;
+    height: 500%;
+background-color: yellow;
+padding-top: 500px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 2em
+    transition: background .6s ease;
+}
+
+.good:hover{
+background:#7fb3d5; 
+}
+.smile{
+    text-decoration: none;
+font-size:2em;
+    font-family: monospace;
+    padding: 7px;
+    background: yellow;
+        
+}

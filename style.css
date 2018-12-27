@@ -1,0 +1,38 @@
+.intro{
+width: 100%;
+height: 300px;
+padding: 500px;
+    
+    
+}
+
+.same{
+    width: 250px;
+    height: 100px;
+background: rgba(0,0,0,0.5);
+    text-align: center;
+    padding-top: 50px;
+    font-size: 2em;
+    font-family: sans-serif;
+
+}
+
+.foo{
+padding: 5px 10px;
+    background: #9c3;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 80px;
+    font-size: 1em;
+    font-family: sans-serif;
+    transition: width 5s;
+    transition-property:background;
+    transition-duration: 2s;
+    transition-timing-function: easer;
+        
+}
+
+.foo:hover{
+background: #690;
+    padding: 20px 40px;
+}
